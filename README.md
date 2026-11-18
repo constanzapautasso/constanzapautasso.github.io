@@ -1,6 +1,6 @@
 # Constanza Pautasso | Portfolio y CV digital
 
-Sitio personal de **Constanza Pautasso**, desarrolladora web freelance y estudiante de Ingeniería Electrónica en la UTN (Córdoba, Argentina).
+Sitio personal de **Constanza Pautasso**, desarrolladora web freelance (Córdoba, Argentina).
 
 Sitio estático hecho con HTML5, CSS3 y JavaScript sin frameworks ni dependencias. Funciona en GitHub Pages sin backend ni servicios pagos.
 
